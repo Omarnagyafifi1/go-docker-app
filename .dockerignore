@@ -1,0 +1,7 @@
+.git
+*.exe
+*.dll
+*.so
+*.test
+.vscode
+.idea
