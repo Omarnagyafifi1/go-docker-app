@@ -93,7 +93,4 @@ go-docker-app/
 
 ```
 
----
 
-Would you like me to add one more short section explaining how the **multi-stage Dockerfile** works, line by line (for your documentation or presentation)?
-```
